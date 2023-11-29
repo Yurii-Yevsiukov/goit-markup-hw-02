@@ -226,16 +226,21 @@ body {
 /* === Основний контент сторінки Портфоліо === */
 .portfolio-page {
 }
+
 /* Портфоліо */
 .portfolio {
 }
+
 .portfolio-page-title {
 }
+
 .filter-list {
 }
+
 /* Список наших робіт */
 .portfolio-list {
 }
+
 .portfolio-title {
   font-size: 18px;
   font-weight: 700;
@@ -243,7 +248,7 @@ body {
   letter-spacing: 1.08px;
 }
 
-.portfolio-list .text {
+.portfolio-list p.text {
   font-size: 16px;
   line-height: 1.875;
   letter-spacing: 0.48px;
